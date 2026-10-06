@@ -143,6 +143,6 @@ Example:
 ["10:50","11:45","ENG","XYZ SIR"," CLASS 221"]
 
 
-<img width="739" height="1600" alt="WhatsApp Image 2026-10-06 at 11 34 25 PM" src="https://github.com/user-attachments/assets/71f7bd57-2e66-4f79-8fe7-d2c2e38275d5" />
+
 
 
